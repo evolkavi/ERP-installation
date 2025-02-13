@@ -121,7 +121,7 @@ script(){
 
 # Function to display author and license information in a banner
 show_info() {
-    echo "Author: VISHWA R"
+    echo "Author: KAVIN M"
     echo "License: GPL-3.0 license"
 }
 
