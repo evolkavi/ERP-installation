@@ -9,7 +9,7 @@ By running this script, you agree to use it responsibly and understand the poten
 
 ## Author
 
-- **Author:** VISHWA R
+- **Author:** KAVIN M
 - **License:** GPL-3.0 license
 
 ## Prerequisites
